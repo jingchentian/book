@@ -19,7 +19,7 @@
                         <p>当前用户： zhangsan</p>
                         <ul>
                             <li><a href="#" class="index">首&nbsp;&nbsp;&nbsp;&nbsp;页</a><li>
-                            <li><a href="#" class="personal">个人信息</a><li>
+                            <li><a href="#" class="personal">个人</a><li>
                             <li><a href="#" class="exam">参加考试</a><li>
                             <li><a href="#" class="examlog">考试记录</a><li>
                             <li><a href="#" class="logout">注&nbsp;&nbsp;&nbsp;&nbsp;销</a><li>
